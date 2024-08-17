@@ -9,4 +9,8 @@ as appropriate and keep track of themselves. I expanded from that and got my sys
 desired space and it changing. Creating the easy ai came first and took about 15 minutes to write.
 
 after creating the previously stated features and a basic welcome screen, I really wanted to see if
-I could make a cool 
+I could make the computer actually try to win. That took a chunk of time, especially since i accidentally
+created an infinite loop and couldn't find it for the longest time. 
+
+After that was done I tried to make it look as good as I could in the time available, finished debugging,
+and wrote this then sent it in. I hope you enjoy!
