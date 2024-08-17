@@ -19,6 +19,5 @@ created an infinite loop and couldn't find it for the longest time.
 After that was done I tried to make it look as good as I could in the time available, finished debugging,
 and made this repository then sent it in. I hope you enjoy!
 
-also, I appologize if the instructions on getting the external library isn't actually what you meant in 
-the instructions. I don't know what it means to 'package' an external library and haven't found clear 
-instructions online.
+also, I appologize if the library packaging isn't done properly. I've never done it before and the
+instructions I found online were confusing.
