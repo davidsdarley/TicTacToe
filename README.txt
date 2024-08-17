@@ -1,6 +1,8 @@
 External dependencies: pygame, random
 
 please make sure they are installed before attempting to run the code.
+pip install pygame
+pip install random
 
 This challenge took my 3 hours and 50 minutes
 initially, I just made the game playable and that took about 2 hours 30 minutes, but by that time
@@ -15,4 +17,8 @@ I could make the computer actually try to win. That took a chunk of time, especi
 created an infinite loop and couldn't find it for the longest time. 
 
 After that was done I tried to make it look as good as I could in the time available, finished debugging,
-and wrote this then sent it in. I hope you enjoy!
+and made this repository then sent it in. I hope you enjoy!
+
+also, I appologize if the instructions on getting the external library isn't actually what you meant in 
+the instructions. I don't know what it means to 'package' an external library and haven't found clear 
+instructions online.
