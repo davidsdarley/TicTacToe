@@ -1,5 +1,7 @@
 External dependencies: pygame, random
 
+please make sure they are installed before attempting to run the code.
+
 This challenge took my 3 hours and 50 minutes
 initially, I just made the game playable and that took about 2 hours 30 minutes, but by that time
 I had so many fun ideas I kept going.
